@@ -10,15 +10,13 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-graphql": "4.5.3",
     "@strapi/strapi": "4.5.3",
     "@strapi/plugin-users-permissions": "4.5.3",
     "@strapi/plugin-i18n": "4.5.3",
     "@strapi/provider-upload-cloudinary": "4.5.3",
     "pg": "^8.7.0",
     "pg-connection-string": "^2.5.0",
-    "sqlite3": "latest",
-    "better-sqlite3": "7.4.6"
+    "sqlite3": "latest"
   },
   "author": {
     "name": "A Strapi developer"
